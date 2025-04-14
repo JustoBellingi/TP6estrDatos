@@ -6,6 +6,6 @@ class Persona:
 
     def saludar(self):
         print(
-            f"¡Hola! Soy {self.nombre}, vivo en {self.pais} y tengo {self.edad} años."
+            f" Hola, como estas? Soy {self.nombre}, vivo en {self.pais} y tengo {self.edad} años."
         )
 persona.saludar()
